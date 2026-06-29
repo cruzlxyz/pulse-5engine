@@ -1,0 +1,17 @@
+assets:
+  - name: USDT
+    quantity: 2100
+  - name: BTC
+    quantity: 0.01
+  - name: ETH
+    quantity: 0.4
+  - name: SOL
+    quantity: 2
+  - name: GRAM
+    quantity: 3
+  - name: SPYX
+    quantity: 0.11
+  - name: SLX
+    quantity: 931.65
+  - name: BILL
+    quantity: 5618

@@ -1,0 +1,25 @@
+engines:
+  brave:
+    name: "Brave Search"
+    sector: "💰 Prices"
+    query: "BTC ETH SOL GRAM SPYX SLX BILL price today USD"
+    
+  exa:
+    name: "Exa AI"
+    sector: "🏛️ Regulation"
+    query: "SEC crypto regulation framework tokenized securities DeFi 2026"
+    
+  tavily:
+    name: "Tavily"
+    sector: "🤖 AI + Airdrop + RWA"
+    query: "AI agents airdrop pre-TGE RWA tokenized stocks news 2026"
+    
+  parallel:
+    name: "Parallel"
+    sector: "🛡️ Security"
+    query: "crypto hack exploit DeFi vulnerability security alert 2026"
+    
+  firecrawl:
+    name: "Firecrawl"
+    sector: "🌍 Macro"
+    query: "Federal Reserve interest rate Bitcoin ETF geopolitical oil dollar stock market crypto 2026"
