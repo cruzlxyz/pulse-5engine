@@ -15,7 +15,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/cruzlxyz/pulse-engine.git
+git clone https://github.com/cruzlxyz/pulse-5engine.git
 cd pulse-engine
 pip install -r requirements.txt
 cp .env.example .env
